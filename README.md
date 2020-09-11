@@ -1,16 +1,21 @@
-### Hi there 👋
+Welcome to my GitHub profile, have fun!
 
-<!--
-**stevenray3/stevenray3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Steven ROLLET**  
+I'm 18 and I'm mainly a front-end developer and a webdesigner.
 
-Here are some ideas to get you started:
+Right now I'm working on my project, Ardoiz, and I'm looking for a job placement in webdesign or development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Overview
+
+Currently second year in <abbr title="Design, development and communication">MMI</abbr> at the IUT Dijon, I'm also a musician, composer and curious artist.  
+I'm passionate about web development because of it's infinite resources and it's forever changing state.
+
+I love challenges!
+
+I started publishing music in 2016 and I always wanted to do other things besides that ever since.
+
+### Studies
+
+I have a Baccalauréat in Science, with a specialisation in Engineer Science.  
+I went to the drama course during 3 years, and that made me confident.
+Although I'm a native French speaker, I fluently speak English and can manage apeaking a little bit German, but I know HTML/CSS/JS/PHP (who said those had to be spoken languages?).
